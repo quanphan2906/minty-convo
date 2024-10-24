@@ -1,5 +1,5 @@
-import { AnalyticsConversationsComponent } from "@/components/analytics-conversations";
+import { AnalyticsConversations } from "@/components/AnalyticsComversation";
 
 export default function Home() {
-	return <AnalyticsConversationsComponent />;
+	return <AnalyticsConversations />;
 }

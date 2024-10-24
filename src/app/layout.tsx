@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-	title: "Recommended AI Playbooks",
+	title: "Analytics - Mintlify",
 };
 
 export default function RootLayout({
